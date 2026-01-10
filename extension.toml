@@ -2,6 +2,7 @@ id = "atom-one-dark"
 name = "One Dark Theme"
 version = "0.0.1"
 schema_version = 1
+submodule = "extensions/one-dark-theme"
 
 description = "One Dark Theme is a minimal Zed theme and ripoff of One Dark and Uno Flat Theme."
 authors = ["MZZW"]
