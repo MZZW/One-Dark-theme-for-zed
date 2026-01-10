@@ -1,0 +1,8 @@
+id = "atom-one-dark"
+name = "One Dark Theme"
+version = "0.0.1"
+schema_version = 1
+
+description = "One Dark Theme is a minimal Zed theme and ripoff of One Dark and Uno Flat Theme."
+authors = ["MZZW"]
+repository = "https://github.com/MZZW/One-Dark-theme-for-zed"
