@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "One Dark Theme",
+  "name": "Atom One Dark Theme",
   "author": "MZZW",
   "themes": [
     {
-      "name": "One Dark Soft",
+      "name": "Atom One Dark Soft",
       "appearance": "dark",
       "style": {
         "editor.foreground": "#abb2bf",
@@ -405,7 +405,7 @@
       }
     },
     {
-      "name": "One Dark Bright",
+      "name": "Atom One Dark Bright",
       "appearance": "dark",
       "style": {
         "editor.foreground": "#abb2bf",
